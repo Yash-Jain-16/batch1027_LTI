@@ -3,8 +3,6 @@ Month is Julyy
 Yearrr is 2022
 It is not raining :((((
 Happy is new Happy
-<<<<<<< HEAD
 Love is new Love
-=======
 My Name is Khan
->>>>>>> br3
+
